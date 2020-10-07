@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Current result"; ObjectID = "1WR-zN-1BZ"; */
+"1WR-zN-1BZ.text" = "Текущий результат";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5dh-De-JDM"; */
+"5dh-De-JDM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "5vF-3f-GAK"; */
+"5vF-3f-GAK.normalTitle" = "Рестарт";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "6bU-jY-NIJ"; */
+"6bU-jY-NIJ.text" = "Громкость";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "G8S-oj-Jhm"; */
+"G8S-oj-Jhm.text" = "Имя";
+
+/* Class = "UIButton"; normalTitle = "Prev"; ObjectID = "HR4-5V-wk6"; */
+"HR4-5V-wk6.normalTitle" = "Пред";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "HaY-xX-Z4Z"; */
+"HaY-xX-Z4Z.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "Jrw-yF-Yzd"; */
+"Jrw-yF-Yzd.text" = "Скорость";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QKc-VW-f7i"; */
+"QKc-VW-f7i.text" = "Label";
+
+/* Class = "UILabel"; text = "Music"; ObjectID = "QhC-1X-iRV"; */
+"QhC-1X-iRV.text" = "Музыка";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "TmM-wA-WDM"; */
+"TmM-wA-WDM.normalTitle" = "Сохранить";
+
+/* Class = "UILabel"; text = "Best Score"; ObjectID = "UuI-Yi-5dI"; */
+"UuI-Yi-5dI.text" = "Лучший результат";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "VSg-c9-2gP"; */
+"VSg-c9-2gP.text" = "Результат";
+
+/* Class = "UILabel"; text = "Start Speed"; ObjectID = "cPM-VG-Lm3"; */
+"cPM-VG-Lm3.text" = "Стартовая скорость";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "rbU-wN-jxK"; */
+"rbU-wN-jxK.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "sgx-E0-1V5"; */
+"sgx-E0-1V5.normalTitle" = "След.";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "ujo-AZ-g8w"; */
+"ujo-AZ-g8w.normalTitle" = "Играть";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "waR-zp-QFB"; */
+"waR-zp-QFB.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "xfn-z4-7cN"; */
+"xfn-z4-7cN.normalTitle" = "Настройки";
